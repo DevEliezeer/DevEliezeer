@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=develiezeer&label=Profile%20views&color=0e75b6&style=flat" alt="develiezeer" /> </p>
 
-- 🌱 I’m currently experienced in **Java**
+- 🌱 I’m currently experienced in **Java** & **Kotlin**
 
 - 📫 You can contact me on Discord by adding **@eliezeer**
 
