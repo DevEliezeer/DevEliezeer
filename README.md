@@ -18,6 +18,6 @@
 
 ### Worked on:
 
-* Apolo.gg Network @ CEO
+* Apolo.gg Network @ CEO & Developer
 * EvilMC Network @ Developer
 * LovyMC Network @ Administrator & Developer
