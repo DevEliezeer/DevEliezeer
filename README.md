@@ -31,4 +31,5 @@
 * EvilMC Network @ Developer
 
 ## 🤜 Friends / Cool people
+* [SoyAyalaa](https://github.com/SoyAyalaa) - Nice friend & developer ✨
 * Can we be friends?
