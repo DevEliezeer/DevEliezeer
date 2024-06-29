@@ -31,4 +31,4 @@
 * EvilMC Network @ Developer
 
 ## 🤜 Friends / Cool people
-* Would you like to be my friend?
+* Can we be friends?
