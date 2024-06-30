@@ -3,10 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=develiezeer&label=Profile%20views&color=0e75b6&style=flat" alt="develiezeer" /> </p>
 
 ## 📖 About me
-- 👤 I'm Eliezer, a minecraft plugin developer & java enthusiast
+- 👤 I'm Eliezer, a minecraft plugin developer, discord bot developer & chess enthusiast
 - 🌱 I’m currently experienced in **Java**, **Kotlin**, **JavaScript** & **Lua**
 - 📫 You can contact me on Discord by adding **@eliezeer**
-- ♟️ I love to play chess & board games
 
 <p align="left">
   <a href="https://skillicons.dev">
