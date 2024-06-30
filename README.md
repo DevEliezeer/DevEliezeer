@@ -31,4 +31,4 @@
 
 ## 🤜 Friends / Cool people
 * [SoyAyalaa](https://github.com/SoyAyalaa) - Nice friend & developer ✨
-* Can we be friends?
+* You - Can we be friends?
