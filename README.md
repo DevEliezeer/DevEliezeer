@@ -21,10 +21,10 @@
 ### Currently working on:
 
 * [Gorum Development](https://discord.gg/VQ7Jt4GNw8) @ CEO & Developer
-* [Apolo.gg Network](https://discord.gg/eW5A35n9Sz) @ CEO & Developer
 
 ### Worked on:
 
+* Apolo.gg Network @ CEO & Developer
 * LovyMC Network @ Administrator & Developer
 * EvilMC Network @ Developer
 
