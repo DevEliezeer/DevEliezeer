@@ -21,6 +21,7 @@
 ### Currently working on:
 
 * [Gorum Development](https://discord.gg/VQ7Jt4GNw8) @ CEO & Developer
+* [Sytix Network](https://discord.sytix.us) @ Head-Developer
 
 ### Worked on:
 
