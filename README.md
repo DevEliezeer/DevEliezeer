@@ -22,6 +22,7 @@
 
 * [Gorum Development](https://discord.gg/VQ7Jt4GNw8) @ CEO & Developer
 * [WaterMC Network](https://discord.gg/watermcgg) @ Developer
+* [VixterMC Network](https://discord.gg/EfdzZ2QcKH) @ Developer
 
 ### Worked on:
 
