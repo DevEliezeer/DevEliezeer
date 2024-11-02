@@ -21,7 +21,6 @@
 ### Currently working on:
 
 * [Gorum Development](https://discord.gg/VQ7Jt4GNw8) @ CEO & Developer
-* [WaterMC Network](https://discord.gg/watermcgg) @ Developer
 * [VixterMC Network](https://discord.gg/EfdzZ2QcKH) @ Developer
 
 ### Worked on:
@@ -30,6 +29,7 @@
 * LovyMC Network @ Administrator & Developer
 * Sytix Network @ Head-Developer
 * EvilMC Network @ Developer
+* WaterMC Network @ Developer
 
 ## 🤜 Friends / Cool people
 * [SoyAyalaa](https://github.com/SoyAyalaa) - Nice friend & developer ✨
