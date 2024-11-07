@@ -5,7 +5,7 @@
 ## 📖 About me
 - 👤 I'm Eliezer, a minecraft plugin developer, discord bot developer & chess enthusiast
 - 🌱 I’m currently experienced in **Java**, **Kotlin**, **JavaScript** & **Lua**
-- 📫 You can contact me on Discord by adding **@eliezeer**
+- 📫 You can contact me on Discord/Email using **@eliezeer**/**hello@eliezeer.me**
 
 <p align="left">
   <a href="https://skillicons.dev">
