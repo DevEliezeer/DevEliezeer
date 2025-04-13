@@ -21,6 +21,8 @@
 ### Currently working on:
 
 * [Gorum Development](https://discord.gg/VQ7Jt4GNw8) @ CEO & Developer
+* [Strafe Network](https://discord.gg/pSb4spEEZb) @ Owner & Developer
+* [Ghoul Network](https://discord.gg/5ErpucCxHg) @ Developer
 
 ### Worked on:
 
