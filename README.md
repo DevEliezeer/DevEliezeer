@@ -22,6 +22,7 @@
 
 * [Gorum Development](https://discord.gg/VQ7Jt4GNw8) @ CEO & Developer
 * [StrafePvP Network](https://discord.gg/pSb4spEEZb) @ Owner & Developer
+* [Ranked Network](https://discord.gg/D4eNNNyKJC) @ Co-Owner & Developer
 * [GhoulPvP Network](https://discord.gg/5ErpucCxHg) @ Developer
 
 ### Worked on:
