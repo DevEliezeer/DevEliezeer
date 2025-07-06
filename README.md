@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F74444&section=header" width="100%"/>
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F74444&section=header" width="100%"/>
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/DevEliezeer">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Hello%2C+It's+Eliezer" alt="It's Eliezer" />
   </a>
 </div>
@@ -12,7 +14,9 @@
   <a href="https://github.com/DevEliezeer?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DevEliezeer?color=F76060&labelColor=F74444&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=develiezeer&color=F76060&style=for-the-badge"/>
+  <a href="#">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=develiezeer&color=F76060&style=for-the-badge"/>
+  </a>
   <a href="https://github.com/DevEliezeer?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DevEliezeer?color=F76060&style=for-the-badge&labelColor=F74444&logo=star"/>
   </a>
@@ -21,7 +25,9 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=About+Me" alt="About Me" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=About+Me" alt="About Me" />
+  </a>
 </div>
 
 ```java
@@ -37,11 +43,15 @@ class Eliezer {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Technologies" alt="Technologies" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Technologies" alt="Technologies" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Programming+Languages" alt="Programming Languages" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Programming+Languages" alt="Programming Languages" />
+  </a>
 </div>
 
 <div align="center">
@@ -60,7 +70,9 @@ class Eliezer {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Databases+%26+Cloud+Hosting" alt="Databases & Cloud Hosting" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Databases+%26+Cloud+Hosting" alt="Databases & Cloud Hosting" />
+  </a>
 </div>
 
 <div align="center">
@@ -76,7 +88,9 @@ class Eliezer {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Software+%26+Tools" alt="Software & Tools" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Software+%26+Tools" alt="Software & Tools" />
+  </a>
 </div>
 
 <div align="center">
@@ -100,11 +114,15 @@ class Eliezer {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Projects" alt="Projects" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Projects" alt="Projects" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Currently+working+on" alt="Currently working on" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Currently+working+on" alt="Currently working on" />
+  </a>
 
 | Project                                            | Role                           | About                                                     | Technologies                    |
 | -------------------------------------------------- | ------------------------------ | --------------------------------------------------------- | ------------------------------- |
@@ -112,7 +130,9 @@ class Eliezer {
 | [StrafePvP Network](https://discord.gg/pSb4spEEZb) | Owner & Developer              | Minecraft server focused on competitive pvp               | Java, JS, MongoDB, Redis        |
 | [GhoulPvP Network](https://discord.gg/5ErpucCxHg)  | Developer                      | Minecraft server with gamemodes as uhc, meetup & practice | Java, MongoDB                   |
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Worked+on" alt="Worked on" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Worked+on" alt="Worked on" />
+  </a>
 
 | Project             | Role                      | Technologies                 |
 | ------------------- | ------------------------- | ---------------------------- |
@@ -130,22 +150,33 @@ class Eliezer {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="GitHub Stats" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="GitHub Stats" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=develiezeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=F74444&text_color=F76060&icon_color=F74444"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develiezeer&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F74444&text_color=F76060"/>
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=develiezeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=F74444&text_color=F76060&icon_color=F74444"/>
+  </a>
+  
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develiezeer&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F74444&text_color=F76060"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=develiezeer&theme=microsoft&hide_border=true&background=00000000&border=F74444&stroke=F74444&ring=F74444&fire=F76060&currStreakNum=F76060&sideNums=F76060&currStreakLabel=F74444&dates=F76060&excludeDaysLabel=F74444&sideLabels=F74444" alt="GitHub Streak" />
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=develiezeer&theme=microsoft&hide_border=true&background=00000000&border=F74444&stroke=F74444&ring=F74444&fire=F76060&currStreakNum=F76060&sideNums=F76060&currStreakLabel=F74444&dates=F76060&excludeDaysLabel=F74444&sideLabels=F74444" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Connect+with+Me" alt="Connect with Me" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Connect+with+Me" alt="Connect with Me" />
+  </a>
 </div>
 
 <div align="center">
@@ -158,5 +189,7 @@ class Eliezer {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F74444&section=footer" width="100%"/>
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F74444&section=footer" width="100%"/>
+  </a>
 </div>
