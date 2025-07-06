@@ -1,8 +1,8 @@
-<div align="center">
+<span>
   <a href="#">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F74444&section=header" width="100%"/>
   </a>
-</div>
+</span>
 
 <div align="center">
   <a href="#">
