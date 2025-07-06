@@ -35,8 +35,8 @@ class Eliezer {
   String pronouns = "he/him";
   String location = "Arequipa, Perú";
   String timezone = "UTC-05:00";
-  String[] languages = {"Spanish", "English"};
-  String[] interests = {"Programming", "Design", "Technology", "Chess"};
+  String[] languages = {"Español", "English"};
+  String[] interests = {"Technology", "Programming", "Design", "Chess"};
   String email = "hello@eliezeer.me";
 }
 ```
