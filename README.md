@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Hello%2C+It's+Eliezer" alt="It's Eliezer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F76060&center=true&vCenter=true&width=435&lines=Hello%2C+It's+Eliezer" alt="It's Eliezer" />
   </a>
 </div>
 
