@@ -161,7 +161,7 @@ class Eliezer {
   </a>
   
   <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develiezeer&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F74444&text_color=F76060"/>
+    <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develiezeer&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F74444&text_color=F76060"/>
   </a>
 </div>
 
