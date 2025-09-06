@@ -127,7 +127,7 @@ class Eliezer {
 | Project                                            | Role                           | About                                                     | Technologies                    |
 | -------------------------------------------------- | ------------------------------ | --------------------------------------------------------- | ------------------------------- |
 | [Gorum Development](https://discord.gg/VQ7Jt4GNw8) | CEO & Developer                | Development focused on the building of minecraft plugins  | Java, JS                        |
-| [StrafePvP Network](https://discord.gg/pSb4spEEZb) | Owner & Developer              | Minecraft server focused on competitive pvp               | Java, JS, MongoDB, Redis        |
+| [WaterMC Network](https://discord.gg/9D2ud8V6vs)   | Co-Owner & Developer           | Minecraft server focused on competitive pvp game modes    | Java, Kotlin, MongoDB, Redis    |
 | [GhoulPvP Network](https://discord.gg/5ErpucCxHg)  | Developer                      | Minecraft server with gamemodes as uhc, meetup & practice | Java, MongoDB                   |
 
   <a href="#">
@@ -136,11 +136,11 @@ class Eliezer {
 
 | Project             | Role                      | Technologies                 |
 | ------------------- | ------------------------- | ---------------------------- |
+| `StrafePvP Network` | Owner & Developer         | Java, JS, MongoDB, Redis     |
 | `Apolo.gg Network`  | Owner & Developer         | Java                         |
 | `Axelity Network`   | Owner & Developer         | Java, MongoDB, Redis         |
 | `LovyMC Network`    | Administrator & Developer | Java                         |
 | `Sytix Network`     | Head-Developer            | Java, JS, Redis              |
-| `WaterMC Network`   | Developer                 | Java, Kotlin, MongoDB        |
 | `Ranked Network`    | Developer                 | Java, Kotlin, MongoDB, Redis |
 | `EvilMC Network`    | Developer                 | Java                         |
 | `VixterMC Network`  | Developer                 | Java                         |
