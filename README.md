@@ -127,7 +127,7 @@ class Eliezer {
 | Project                                            | Role                           | About                                                     | Technologies                    |
 | -------------------------------------------------- | ------------------------------ | --------------------------------------------------------- | ------------------------------- |
 | [Gorum Development](https://discord.gg/VQ7Jt4GNw8) | CEO & Developer                | Development focused on the building of minecraft plugins  | Java, JS                        |
-| [Strafe Network](https://discord.strafepvp.org)    | Owner & Developer              | Minecraft server focused on competitive pvp               | Java, JS, MongoDB, Redis        |
+| [StrafePvP Network](https://discord.strafepvp.org) | Owner & Developer              | Minecraft server focused on competitive pvp               | Java, JS, MongoDB, Redis        |
 | [WaterMC Network](https://discord.gg/9D2ud8V6vs)   | Co-Owner & Developer           | Minecraft server centered on skill-based modes            | Java, Kotlin, MongoDB, Redis    |
 | [GhoulPvP Network](https://discord.gg/5ErpucCxHg)  | Developer                      | Minecraft server with gamemodes as uhc, meetup & practice | Java, MongoDB                   |
 
