@@ -115,42 +115,6 @@ class Eliezer {
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Projects" alt="Projects" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Currently+working+on" alt="Currently working on" />
-  </a>
-
-| Project                                            | Role                           | About                                                     | Technologies                    |
-| -------------------------------------------------- | ------------------------------ | --------------------------------------------------------- | ------------------------------- |
-| [Gorum Development](https://discord.gg/VQ7Jt4GNw8) | CEO & Developer                | Development focused on the building of minecraft plugins  | Java, JS                        |
-| [StrafePvP Network](https://discord.strafepvp.org) | Owner & Developer              | Minecraft server focused on competitive pvp               | Java, JS, MongoDB, Redis        |
-| [WaterMC Network](https://discord.gg/9D2ud8V6vs)   | Co-Owner & Developer           | Minecraft server centered on skill-based modes            | Java, Kotlin, MongoDB, Redis    |
-| [GhoulPvP Network](https://discord.gg/5ErpucCxHg)  | Developer                      | Minecraft server with gamemodes as uhc, meetup & practice | Java, MongoDB                   |
-
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Worked+on" alt="Worked on" />
-  </a>
-
-| Project             | Role                      | Technologies                 |
-| ------------------- | ------------------------- | ---------------------------- |
-| `Apolo.gg Network`  | Owner & Developer         | Java                         |
-| `Axelity Network`   | Owner & Developer         | Java, MongoDB, Redis         |
-| `LovyMC Network`    | Administrator & Developer | Java                         |
-| `Sytix Network`     | Head-Developer            | Java, JS, Redis              |
-| `Ranked Network`    | Developer                 | Java, Kotlin, MongoDB, Redis |
-| `EvilMC Network`    | Developer                 | Java                         |
-| `VixterMC Network`  | Developer                 | Java                         |
-
-</div>
-
----
-
-<div align="center">
-  <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="GitHub Stats" />
   </a>
 </div>
