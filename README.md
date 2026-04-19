@@ -109,8 +109,11 @@ class Eliezer {
 </div>
 
 <div align="center">
-  <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=E95420" alt="Ubuntu"/>
+  <a href="https://gradle.org/">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle"/>
+  </a>
+  <a href="https://maven.apache.org/">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
