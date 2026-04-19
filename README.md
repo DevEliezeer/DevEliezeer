@@ -56,7 +56,7 @@ class Eliezer {
 
 <div align="center">
   <a href="https://java.com/">
-    <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white&labelColor=f89820" alt="Java"/>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"/>
   </a>
   <a href="https://kotlinlang.org/">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=7F52FF" alt="Kotlin"/>
@@ -64,8 +64,20 @@ class Eliezer {
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
   </a>
-  <a href="https://lua.org/">
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white&labelColor=2C2D72" alt="Lua"/>
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=F76060&center=true&vCenter=true&repeat=false&width=435&lines=Frameworks+%26+Libraries" alt="Frameworks & Libraries" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="[https://www.mongodb.com/](https://spring.io/)">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot"/>
   </a>
 </div>
 
@@ -85,6 +97,9 @@ class Eliezer {
   <a href="https://www.cloudflare.com/">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=F38020" alt="Cloudflare"/>
   </a>
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
 </div>
 
 <div align="center">
@@ -103,8 +118,12 @@ class Eliezer {
   <a href="https://desktop.github.com/">
     <img src="https://img.shields.io/badge/Github Desktop-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
+  <br>
   <a href="https://www.jetbrains.com/idea/">
     <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white&labelColor=000000" alt="Intellij IDEA"/>
+  </a>
+  <a href="https://developer.android.com/studio/">
+    <img src="https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff" alt="Android Studio"/>
   </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="Visual Studio Code"/>
