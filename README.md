@@ -126,7 +126,7 @@ class Eliezer {
     <img src="https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff" alt="Android Studio"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="Visual Studio Code"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   </a>
 </div>
 
